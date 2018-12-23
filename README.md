@@ -3,6 +3,6 @@ Tools, links and references for the STM32F0discovery kit: https://www.st.com/con
 
 ## IDEs
 - [System Workbench for STM32](https://www.st.com/en/development-tools/sw4stm32.html)
--- Just a collection of plugins for Eclipse, the easiet solution imho :)
+* Just a collection of plugins for Eclipse, the easiet solution imho :)
 - [Atollic TrueSTUDIO](https://atollic.com/truestudio/)
 - [ARM Keil MD5](http://www2.keil.com/mdk5/)
