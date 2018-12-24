@@ -9,9 +9,13 @@ Tools, links and references for the STM32F0discovery kit: https://www.st.com/con
 
 ## ToDo list
 :white_check_mark: Playing with an "Hello world" example for LEDs
+
 :black_square_button: Examples for other components (UART, timer...)
+
 :black_square_button: Pushing a library of tool functions (see the sample project with utilities)
+
 :black_square_button: Pushing a directory with some datasheets and links
+
 :black_square_button: Writing a small tutorial in this README to get the environment ready
 
 ## Misc
