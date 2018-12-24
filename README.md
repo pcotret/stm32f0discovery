@@ -24,3 +24,5 @@ Tools, links and references for the STM32F0discovery kit: https://www.st.com/con
   - The stm32f051r8 is missing (device in the STM32F0 Discovery kit). Should help with it
 - Sample projects: https://github.com/jgowans/stm32f0_devel
 - A template for builting STM23F0 ARM projects with GCC : https://github.com/szczys/stm32f0-discovery-basic-template
+- Embedded in Rust: https://blog.japaric.io/
+- RTFM v0.4: +stable, software tasks, message passing and a timer queue: https://blog.japaric.io/rtfm-v4/
