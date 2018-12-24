@@ -6,3 +6,8 @@ Tools, links and references for the STM32F0discovery kit: https://www.st.com/con
   - Just a collection of plugins for Eclipse, the easiet solution imho :)
 - [Atollic TrueSTUDIO](https://atollic.com/truestudio/)
 - [ARM Keil MD5](http://www2.keil.com/mdk5/)
+
+## ToDo list
+:white_check_mark:
+:black_square_button:
+:white_square_button:
