@@ -4,3 +4,5 @@
 - led-with-utilities: custom project.
   - Blinks only the LED3 (green LED).
   - ST provides some utilities, the idea was to use them.
+- led-button-functions:
+  - Similar to led-button, using the small library given by ST.
